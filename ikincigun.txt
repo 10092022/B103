@@ -1,2 +1,3 @@
 git githup ikinci gün ilk deneme
 git githup ikinci gün ikinci deneme
+git githup ikinci gün ucuncu deneme
