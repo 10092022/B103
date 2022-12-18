@@ -4,4 +4,4 @@ git githup ikinci gün ucuncu deneme
 git githup ikinci gün ALOSKA BRANCH'i deneme
 git githup ikinci gün MASTER BRANCH'i deneme
 git githup ikinci gün ALOSKA BRANCH'i 2. deneme
-
+git githup ikinci gün QAYIKCI BRANCH'i ilk deneme
