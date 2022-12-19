@@ -6,3 +6,4 @@ git githup ikinci gün MASTER BRANCH'i deneme
 git githup ikinci gün ALOSKA BRANCH'i 2. deneme
 git githup ikinci gün QAYIKCI BRANCH'i ilk deneme
 git githup ucuncu gün ilk deneme falan filan
+git githup ucuncu gün ikinci deneme gibi iste
